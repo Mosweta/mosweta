@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./mosweta-profile-banner.svg" alt="Profile Banner" width="100%">
 </p>
+
 # Hi there, I'm Deogracious Moriasi 👋
 
 ### 🚀 Full-Stack Developer | Open for Opportunities
