@@ -32,6 +32,3 @@
 
 ---
 
-### 📬 Connect with Me
-- [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/deogracious-moriasi-2a0941318/)
-- [![Portfolio](https://shields.io)][]
