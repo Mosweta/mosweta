@@ -26,6 +26,7 @@ I build fast, responsive, and scalable web applications. Currently focused on cr
 ![NodeJS](https://shields.io)
 ![Express.js](https://shields.io)
 ![Python](https://shields.io)
+![Firebase](https://shields.io)
 
 **Tools & Platforms**
 ![Git](https://shields.io)
@@ -42,5 +43,5 @@ I build fast, responsive, and scalable web applications. Currently focused on cr
 ---
 
 ### 📬 Connect with Me
-[![LinkedIn](https://shields.io)][https://www.linkedin.com/in/deogracious-moriasi-2a0941318/]
-[![Portfolio](https://shields.io)][]
+- [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/deogracious-moriasi-2a0941318/)
+- [![Portfolio](https://shields.io)][]
